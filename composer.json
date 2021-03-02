@@ -1,11 +1,11 @@
 {
-    "name": "heyforyou/idcard-sdk-php",
+    "name": "uuidcoder/idcard-sdk-php",
     "description": "demo",
     "type": "library",
     "license": "mit",
     "authors": [
         {
-            "name": "heyforyou",
+            "name": "uuidcoder",
             "email": "57907830@qq.com"
         }
     ],
