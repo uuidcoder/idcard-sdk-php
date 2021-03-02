@@ -1,0 +1,22 @@
+{
+    "name": "heyforyou/idcard-sdk-php",
+    "description": "demo",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "heyforyou",
+            "email": "57907830@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "IdCard\\": "./src/IdCard"
+        }
+    }
+}
